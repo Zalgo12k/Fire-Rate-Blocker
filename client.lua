@@ -1,7 +1,7 @@
 local FireRate = {
 
     [`weapon_pistol`] = 0.375, 
-    [`weapon_pistol_mk2`] = 1.8, 
+    [`weapon_pistol_mk2`] = 0.38, 
     [`weapon_heavypistol`] = 0.42, 
     [`weapon_combatpistol`] = 0.38,
     [`weapon_snspistol`] = 0.375,
